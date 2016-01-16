@@ -1,6 +1,8 @@
-# Competition-to-collect
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned |[123](https://github.com/) |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+# 比赛收集
+注：本次比赛信息只是在校内网这个平台收集得关于工科的比赛，或许还有没搜集完的。信息爆炸的现在有用的信息相对较少，希望大家能把自己知道的比赛信息也加进来；给所有人更多的选择。也很乐意大家一起更新或者更改里面的信息。
+
+| 时间          | 名称          |级别   |链接     |
+| ------------- |:-------------:| -----:|--------:|
+| 3月16日       | 开拓杯        |校级   | [链接](http://news.cqut.edu.cn/Article/Detail/a6866ad6-512f-4c3e-be5d-20f83f257ac3)      |
+| col 2 is      | centered      |   $12 |         |
+| zebra stripes | are neat      |    $1 |         |
