@@ -7,7 +7,7 @@
 | 3月19日       | APP大赛       |校级   | [链接](http://news.cqut.edu.cn/Article/Detail/b629738f-ed0b-4377-94ed-a2d9b6c58ca8)      |
 | 4月3日        | 机械制图      | 校级  | [链接](http://news.cqut.edu.cn/Article/Detail/88d3db28-d1d6-48a9-9d25-77cc492777ac)      |
 | 4月3日        | 科研立项      | 校级  | [链接](http://news.cqut.edu.cn/Article/Detail/f9607096-26ba-45c5-8079-2eeefcea46c6)      |
-| 4月20日        | 全国大学生机械创新设计大赛|国|[链接](http://news.cqut.edu.cn/Article/Detail/88d3db28-d1d6-48a9-9d25-77cc492777ac)|
+| 4月20日        | 全国大学生机械创新设计大赛|国|[链接](http://news.cqut.edu.cn/Article/Detail/c5fcae59-0e98-4ca4-ba01-91c70afa3495)|
 | 4月27日       | 过程装备实践与创新比赛|校级| [链接](http://news.cqut.edu.cn/Article/Detail/c960e585-8217-4808-8c9c-02f122959ab3) |
 | 6月1日|校级程序设计大赛(获奖后参加市级比赛)|校级|[链接](http://news.cqut.edu.cn/Article/Detail/88d3db28-d1d6-48a9-9d25-77cc492777ac)|
 | 6月3日        |中国创新创业大赛（先重庆，再全国）|校级| [链接](http://www.cxcyds.com/)|
