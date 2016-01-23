@@ -11,7 +11,7 @@
 | 4月27日       | 过程装备实践与创新比赛|校级| [链接](http://news.cqut.edu.cn/Article/Detail/c960e585-8217-4808-8c9c-02f122959ab3) |
 | 6月1日|校级程序设计大赛(获奖后参加市级比赛)|校级|[链接](http://news.cqut.edu.cn/Article/Detail/13719e64-384e-4564-ad65-c7ec9aab3f21)|
 | 6月3日        |中国创新创业大赛（先重庆，再全国）|校级| [链接](http://www.cxcyds.com/)|
-| 6月25日       | 创青春(小挑战杯，国赛)| 国  | [链接](http://news.cqut.edu.cn/Article/Detail/6c4fa3d6-ebaa-44f1-82b9-9b6cf5cdb188)[介绍连接](http://smse.seu.edu.cn/70/cd/c2598a28877/page.htm)|
+| 6月25日       | 创青春(小挑战杯，国赛)| 国  | [链接](http://news.cqut.edu.cn/Article/Detail/6c4fa3d6-ebaa-44f1-82b9-9b6cf5cdb188)        [介绍连接](http://smse.seu.edu.cn/70/cd/c2598a28877/page.htm)|
 | 12月1日       | 合泰杯(单片机比赛)| 市级  | [链接](http://news.cqut.edu.cn/Article/Detail/362cc616-bccc-4ba2-aa78-e98cf02b2a90)      |
 
 
