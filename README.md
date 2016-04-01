@@ -5,7 +5,7 @@
 | ------------- |:-------------:| -----:|--------:|--------:|
 | 3月16日       | 开拓杯        |校级   | [第23届通知](http://news.cqut.edu.cn/Article/Detail/a6866ad6-512f-4c3e-be5d-20f83f257ac3)      |
 | 3月19日       | APP大赛       |校级   | [第2015年通知](http://news.cqut.edu.cn/Article/Detail/b629738f-ed0b-4377-94ed-a2d9b6c58ca8)      |
-|3月 |TI杯电子设计大赛开始报名（重庆赛区） |市 | |[2016年介绍]()|
+|3月 |TI杯电子设计大赛开始报名（重庆赛区） |市 | |[2016年介绍](https://github.com/afshare/Competition-to-collect/blob/master/TI_Competition.md)|
 | 4月3日        | 机械制图      | 校级  | [第4届通知](http://news.cqut.edu.cn/Article/Detail/88d3db28-d1d6-48a9-9d25-77cc492777ac)      |
 | 4月3日        | 科研立项      | 校   | [2015通知](http://news.cqut.edu.cn/Article/Detail/f9607096-26ba-45c5-8079-2eeefcea46c6)      |
 | 4月20日        | 全国大学生机械创新设计大赛|国|[第7届通知](http://news.cqut.edu.cn/Article/Detail/c5fcae59-0e98-4ca4-ba01-91c70afa3495)|
