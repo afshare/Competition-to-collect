@@ -9,7 +9,7 @@
 * 
 * [2015年全国电子设计大赛](https://raw.githubusercontent.com/afshare/Competition-to-collect/master/2015%E5%85%A8%E5%9B%BD%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%B5%E5%AD%90%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B.zip)
 
-在此特别感谢__万文略老师__，张竟科同学提供的试题资料。
+在此特别感谢__万老师__，张同学提供的试题资料。
 如果不是万老师说群里面有题目，我还会在百度和google搜索关键字（重庆市TI杯，然而关键字应该是‘TI 联赛最终参考赛题’）可见所想搜索的不是所得的，搜索引擎还不够智能。
 ![myicon](https://github.com/afshare/Competition-to-collect/blob/master/changeR1-v2-150px.png)
-欢迎大家一起来完善这些内容，让其他人更了解我们正在干的事情
+* 欢迎大家一起来完善这些内容，让其他人更了解我们正在干的事情
